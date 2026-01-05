@@ -111,7 +111,7 @@ function App() {
   <div className="min-h-screen bg-gray-900 text-white flex items-center justify-center">
     <div className="bg-gray-800 p-6 rounded-xl w-full max-w-md shadow-lg">
       <h2 className="text-2xl font-bold mb-4 text-center">
-        My First Real Web3 dApp
+        DashNote - Decentralized Message DApp
       </h2>
 
       <button
